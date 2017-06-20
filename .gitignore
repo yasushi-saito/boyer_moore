@@ -1,0 +1,7 @@
+CMakeFiles/**
+/CMakeCache.txt
+*~
+benchmark/**
+/boyer_moore_test
+/cmake_install.cmake
+/Makefile
